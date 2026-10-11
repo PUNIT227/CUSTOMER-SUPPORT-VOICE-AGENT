@@ -1,4 +1,4 @@
-# WordBridge English Academy — Inbound Voice Agent (`Ashley`)
+# WordBridge English Academy — Inbound Voice Agent 
 
 [![ElevenLabs](https://shields.io)](https://elevenlabs.io)
 [![License: MIT](https://shields.io)](https://opensource.org)
